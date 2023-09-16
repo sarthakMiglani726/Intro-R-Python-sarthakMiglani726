@@ -2,6 +2,8 @@
 
 Repository for Intro to R/Python from the course: INFO 523 - Data Mining and Discovery taught by Dr. Greg Chism
 
+## Author: Sarthak Miglani
+
 ## Instructions
 
 ### 1. Clone this repository to:
